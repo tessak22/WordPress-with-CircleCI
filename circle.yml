@@ -1,0 +1,10 @@
+machine:
+  timezone:
+    America/Chicago
+
+  node:
+    version: 5.5.0
+
+  php:
+    version: 7.0.18
+    # Change this if you need to for your build
